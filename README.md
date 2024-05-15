@@ -2,7 +2,7 @@
 
 Description of files and usage
 
-EDA_pre_preocessing-This file demostarstes the data analysis,and pre processing of image
+EDA_pre_preocessing-This file demonstrates the data analysis,and pre processing of image
 
 base model-This is the base Model and using sequence architcture
 
